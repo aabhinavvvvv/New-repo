@@ -6,3 +6,9 @@ dot_product = np.dot(vector_a, vector_b)
 print("Dot product:", dot_product)
 
 #doing some changes in the file
+
+
+# here are some new changes
+
+for i in range(10):
+    print(i)
